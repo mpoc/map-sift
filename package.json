@@ -2,6 +2,8 @@
   "name": "map-sift",
   "description": "",
   "version": "0.0.1",
+  "license": "MIT",
+  "repository": "mpoc/map-sift",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
