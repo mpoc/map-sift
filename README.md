@@ -1,6 +1,6 @@
 # `mapSift`
 
->- Perform map and filter operations in the same iteration
+> Perform map and filter operations in the same iteration
 
 ## Install
 
