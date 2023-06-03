@@ -1,1 +1,1 @@
-# `mapFilter`
+# `mapSift`
