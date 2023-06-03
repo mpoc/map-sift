@@ -1,7 +1,7 @@
 {
   "name": "map-sift",
   "description": "Perform map and filter operations in the same iteration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "repository": "mpoc/map-sift",
   "main": "dist/index.js",
