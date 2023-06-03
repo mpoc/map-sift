@@ -10,6 +10,15 @@
     "src",
     "dist"
   ],
+  "keywords": [
+    "array",
+    "map",
+    "filter",
+    "merge",
+    "iteration",
+    "sift",
+    "truthy"
+  ],
   "scripts": {
     "build": "tsc",
     "prepack": "npm run build",
