@@ -1,6 +1,6 @@
 {
   "name": "map-sift",
-  "description": "",
+  "description": "Perform map and filter operations in the same iteration",
   "version": "1.0.0",
   "license": "MIT",
   "repository": "mpoc/map-sift",
