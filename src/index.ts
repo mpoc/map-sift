@@ -1,5 +1,3 @@
-import 'source-map-support/register'
-
 type MapFnParams<V> = Parameters<Parameters<Array<V>['map']>[0]>
 type MapFn<V, R> = (...params: MapFnParams<V>) => R
 type MapSiftFn<V, R> = (...params: MapFnParams<V>) => [] | [NonNullable<R>]
