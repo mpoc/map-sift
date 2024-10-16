@@ -3,7 +3,7 @@
   "description": "Perform map and filter operations in the same iteration",
   "version": "1.0.2",
   "license": "MIT",
-  "repository": "mpoc/map-sift",
+  "repository": "github:mpoc/map-sift",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
